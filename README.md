@@ -10,8 +10,7 @@
 - Mysql, Postgresql
 - Nginx
 
-- 📫 How to reach me: ...
-You can contact me through:
+## You can contact me through:
 
 - [Email](singh.yudi20@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/yudhishthir-singh-b4741b192/)
