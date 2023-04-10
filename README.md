@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yudi43/yudi43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <h2 align="center">My name is Yudhishthir Singh, Software professional with 3+ years of experience. 👋</h2>
 
