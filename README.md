@@ -14,7 +14,7 @@
 You can contact me through:
 
 - [Email](singh.yudi20@gmail.com)
-- [LinkedIn]([link to your LinkedIn profile](https://www.linkedin.com/in/yudhishthir-singh-b4741b192/))
+- [LinkedIn](https://www.linkedin.com/in/yudhishthir-singh-b4741b192/)
 
 ## My Stackoverflow flair:
 
