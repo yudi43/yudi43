@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-<h2 align="center">My name is Yudhishthir Singh, Software professional with 3+ years of experience. 👋</h2>
+### My name is Yudhishthir Singh, Software professional with 3+ years of experience. 👋
 
 - 📫 How to reach me: ...
 <p align='center'>
