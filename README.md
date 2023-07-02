@@ -3,6 +3,7 @@
 
 ## Technologies I Work With
 
+- JS, python, Dart
 - React
 - Flutter
 - Node
