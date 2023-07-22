@@ -4,7 +4,7 @@
 ## Technologies I Work With
 
 - JS, python, Dart
-- React
+- React, Redux
 - Flutter
 - Node
 - Django
